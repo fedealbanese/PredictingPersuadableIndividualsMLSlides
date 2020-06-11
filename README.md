@@ -4,7 +4,7 @@ Slides of the Predicting persuadable individuals  using text mining and graph ma
 #### Papers We Love Buenos Aires 2020
 June 3, 2020. Buenos Aires, Argentina.
 
-**[[Event link]](https://www.meetup.com/es/papers-we-love-buenos-aires/events/270991301/)** **[[Youtube link]](https://youtu.be/sR8pMqt_WZ0)**
+**[[Event link]](https://www.meetup.com/es/papers-we-love-buenos-aires/events/270991301/)** **[[YouTube link]](https://youtu.be/sR8pMqt_WZ0)**
 
 
 #### Seminarios de Computación FAMAF 2020
